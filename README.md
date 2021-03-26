@@ -1,4 +1,6 @@
-### Hi there 👋
+![ProfileCover](https://github.com/Iain-York/Iain-York/blob/main/cover.png)
+
+### Hi there 👋 I'm Iain  🧑🏻
 
 I'm Iain from Cleveland Ohio and I do Front End Webdevelopment and a bit of Python Game development :) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Iain-York&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
